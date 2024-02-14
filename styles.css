@@ -13,6 +13,10 @@ html, body {
     font-weight: 500;
     animation: fadeInfast 3s ease-in-out 0s 1;
   }
+  .audio {
+    position: fixed;
+    bottom: 0px;
+  }
   .valentine {
     color: #d52d58;
     overflow: hidden;
@@ -20,7 +24,7 @@ html, body {
     white-space: nowrap;
     font-size: 20px;
     position: fixed;
-    left: 12%;
+    left: 15%;
     top: 80%;
     animation: typing 5s linear 3s 1 ;
     animation-fill-mode: both;
